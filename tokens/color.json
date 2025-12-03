@@ -1,0 +1,12 @@
+{
+  "color": {
+    "Corzitcha": "#FFB3B3B3",
+    "Seed": "#FFB3B3B3",
+    "OnPrimary": "#FFFFFFFF",
+    "AccentBlue": "#FF1757B8",
+    "AccentBlack": "#FF303030",
+    "SmoothGreen": "#FFAFEFC7",
+    "DatePickerHeaderBackground": "#FF2196F3",
+    "DatePickerAccentColor": "#FFFF005A"
+  }
+}
